@@ -1,7 +1,11 @@
 aid: western-refining
-url: https://raw.githubusercontent.com/api-evangelist/western-refining/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/western-refining/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.western-refining.com
+description: >-
+  Western Refining was an independent crude oil refiner and marketer of refined products
+  before being acquired by Tesoro Corporation.
