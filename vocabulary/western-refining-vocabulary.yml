@@ -1,0 +1,91 @@
+vocabulary:
+  provider: Western Refining
+  description: >-
+    Vocabulary and taxonomy for Western Refining, an independent crude oil
+    refiner and marketer of refined petroleum products, acquired by Tesoro
+    Corporation in 2017. The company operated refineries in Texas, New Mexico,
+    and Minnesota, processing crude oil into gasoline, diesel, jet fuel, and
+    other products.
+  tags:
+    - Petroleum Refining
+    - Crude Oil
+    - Energy
+    - Fuel
+    - Manufacturing
+  terms:
+    - term: Crude Oil Refining
+      definition: >-
+        The industrial process of transforming crude oil into useful petroleum
+        products such as gasoline, diesel fuel, jet fuel, liquefied petroleum
+        gas, and asphalt through distillation and chemical treatment.
+      tags:
+        - Petroleum Refining
+        - Manufacturing
+
+    - term: Refined Products
+      definition: >-
+        End products from crude oil refining including gasoline, diesel fuel,
+        jet fuel, heating oil, lubricants, and asphalt marketed and distributed
+        by Western Refining.
+      tags:
+        - Petroleum Refining
+        - Fuel
+
+    - term: Barrel
+      definition: >-
+        Standard unit of volume used in the petroleum industry, equal to
+        42 US gallons. Western Refining's El Paso refinery had a capacity
+        of approximately 128,000 barrels per day.
+      tags:
+        - Petroleum Refining
+        - Measurement
+
+    - term: Throughput
+      definition: >-
+        The volume of crude oil processed by a refinery over a specific period,
+        typically measured in barrels per day (bpd).
+      tags:
+        - Petroleum Refining
+        - Operations
+
+    - term: Crack Spread
+      definition: >-
+        The differential between the price of crude oil and petroleum products
+        extracted from it, representing the refinery's gross profit margin.
+      tags:
+        - Finance
+        - Petroleum Refining
+
+    - term: Upstream
+      definition: >-
+        The exploration and production segment of the oil and gas industry,
+        including drilling and extracting crude oil. Western Refining was a
+        downstream company.
+      tags:
+        - Energy
+
+    - term: Downstream
+      definition: >-
+        The refining and marketing segment of the oil and gas industry,
+        including processing crude oil and distributing refined products
+        to end users. Western Refining operated in this segment.
+      tags:
+        - Petroleum Refining
+        - Energy
+
+    - term: Tesoro
+      definition: >-
+        Tesoro Corporation (now Andeavor), the San Antonio-based refiner that
+        acquired Western Refining in 2017 for approximately $6.4 billion,
+        creating the second-largest independent refiner in the western US.
+      tags:
+        - Acquisition
+        - Energy
+
+    - term: Marathon Petroleum
+      definition: >-
+        Marathon Petroleum Corporation, which acquired Andeavor (formerly
+        Tesoro) in 2018, incorporating the legacy Western Refining assets.
+      tags:
+        - Acquisition
+        - Energy

@@ -1,0 +1,64 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "schema": "https://schema.org/",
+    "wr": "https://www.western-refining.com/ontology/",
+
+    "Organization": "schema:Organization",
+    "name": {
+      "@id": "schema:name",
+      "@type": "xsd:string"
+    },
+    "description": {
+      "@id": "schema:description",
+      "@type": "xsd:string"
+    },
+    "foundingDate": {
+      "@id": "schema:foundingDate",
+      "@type": "xsd:date"
+    },
+    "dissolutionDate": {
+      "@id": "schema:dissolutionDate",
+      "@type": "xsd:date"
+    },
+
+    "Refinery": {
+      "@id": "wr:Refinery",
+      "@type": "@id"
+    },
+    "refineryName": {
+      "@id": "schema:name",
+      "@type": "xsd:string"
+    },
+    "refineryLocation": {
+      "@id": "schema:location",
+      "@type": "@id"
+    },
+    "refiningCapacity": {
+      "@id": "wr:refiningCapacity",
+      "@type": "xsd:decimal"
+    },
+    "capacityUnit": {
+      "@id": "wr:capacityUnit",
+      "@type": "xsd:string"
+    },
+
+    "PetroleumProduct": {
+      "@id": "wr:PetroleumProduct",
+      "@type": "@id"
+    },
+    "productType": {
+      "@id": "schema:additionalType",
+      "@type": "xsd:string"
+    },
+    "pricePerBarrel": {
+      "@id": "schema:price",
+      "@type": "xsd:decimal"
+    },
+    "currency": {
+      "@id": "schema:priceCurrency",
+      "@type": "xsd:string"
+    }
+  }
+}
