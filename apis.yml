@@ -10,6 +10,8 @@ description: >-
   subsequently acquired by Marathon Petroleum in 2018.
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/western-refining_2
   - type: Website
     url: https://www.western-refining.com
   - type: Wikipedia
