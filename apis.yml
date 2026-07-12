@@ -12,6 +12,8 @@ description: >-
   subsequently acquired by Marathon Petroleum in 2018.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/western-refining-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/western-refining_2
   - type: Website
