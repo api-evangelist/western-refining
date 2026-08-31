@@ -37,6 +37,11 @@ description: >-
   subsequently acquired by Marathon Petroleum in 2018.
 apis: []
 common:
+  - type: ParentCompany
+    url: https://apis.io/providers/marathon-petroleum/
+    name: Marathon Petroleum
+    x-relationship: acquired
+    x-evidence: "Western Refining's assets are now part of Andeavor (formerly Tesoro), subsequently acquired by Marathon Petroleum in 2018."
   - type: DomainSecurity
     url: security/western-refining-domain-security.yml
   - type: LinkedIn
