@@ -1,7 +1,9 @@
 ---
 title: Northern Tier, Western Refining announce preliminary ...
 url: https://www.reuters.com/article/business/northern-tier-western-refining-announce-preliminary-merger-consideration-electi-idUSFWN19E010/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Western Refining" press release artificial intelligence'
 position: 4
 source: serpapi-google

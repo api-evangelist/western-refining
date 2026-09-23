@@ -1,7 +1,9 @@
 ---
 title: Tesoro changing name to 'Andeavor' after acquisition of ...
 url: https://www.webcenterfairbanks.com/content/news/Tesoros--429041513.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Western Refining" press release artificial intelligence'
 position: 2
 source: serpapi-google

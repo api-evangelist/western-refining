@@ -1,7 +1,9 @@
 ---
 title: Western Refining Launches Express Rewards
 url: https://www.cspdailynews.com/technologyservices/western-refining-launches-express-rewards
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Western Refining" press release artificial intelligence'
 position: 1
 source: serpapi-google
